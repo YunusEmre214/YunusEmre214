@@ -28,6 +28,7 @@ Tools & Technologies:
 
 
 **📌 Projects**
+
 🚗 Graph-Based Shortest Path Project (Java)
 - Implemented DFS, DFS-Shortest, and Dijkstra algorithms
 - Used custom data structures (LinkedList, Stack, Priority Queue)
