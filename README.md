@@ -29,24 +29,24 @@ Tools & Technologies:
 
 **📌 Projects**
 🚗 Graph-Based Shortest Path Project (Java)
-Implemented DFS, DFS-Shortest, and Dijkstra algorithms
-Used custom data structures (LinkedList, Stack, Priority Queue)
-Modeled a real-world transportation network of cities in Türkiye
-No Java built-in collections were used
+- Implemented DFS, DFS-Shortest, and Dijkstra algorithms
+- Used custom data structures (LinkedList, Stack, Priority Queue)
+- Modeled a real-world transportation network of cities in Türkiye
+- No Java built-in collections were used
 
 🧠 Digital Systems & CPU Design (Logisim)
-Designed ALU and datapath components
-Implemented multi-cycle CPU architecture
-Worked with registers, buses, and control signals
+- Designed ALU and datapath components
+- Implemented multi-cycle CPU architecture
+- Worked with registers, buses, and control signals
 
 🎮 Java OOP Game Project
-Designed a basic game using object-oriented principles
-Applied inheritance, encapsulation, and polymorphism
+- Designed a basic game using object-oriented principles
+- Applied inheritance, encapsulation, and polymorphism
 
 📚 Currently Learning
-Advanced Data Structures
-Operating Systems fundamentals
-Algorithm analysis and optimization
+- Advanced Data Structures
+- Operating Systems fundamentals
+- Algorithm analysis and optimization
 
 **📫 Contact Me**
 📧 Email: yunusemreozcalimli@gmail.com
