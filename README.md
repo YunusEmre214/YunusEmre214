@@ -50,10 +50,10 @@ Tools & Technologies:
 
 **📫 Contact Me**
 - 📧 Email: yunusemreozcalimli@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/yunus-emre-özçalimli-455b01330
+- 🔗 LinkedIn:<a href="https://linkedin.com/in/yunus-emre-özçalimli-455b01330/" target="blank">linkedin.com/in/yunus-emre-özçalimli-455b01330</a>
 - 💻 GitHub: github.com/YunusEmre214
 
-- <a href="https://linkedin.com/in/yunus-emre-özçalimli-455b01330/" target="blank">aaba</a>
+- 
 <!--
 **YunusEmre214/YunusEmre214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
