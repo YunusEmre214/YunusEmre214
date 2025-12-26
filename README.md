@@ -1,12 +1,12 @@
 ## Hi there I'm Yunus Emre Özçalimli👋
 
-🎓 Computer Engineering (2nd Year) Student
-📍 MEF University, Türkiye
+**🎓 Computer Engineering (2nd Year) Student**
+**📍 MEF University, Türkiye**
 
 I am a motivated computer engineering student with a strong interest in software development, data structures, and algorithm design.
 I enjoy building projects from scratch and understanding how systems work at a low level.
 
-🛠️ Technical Skills
+**🛠️ Technical Skills**
 
 Programming Languages:
 - Java
