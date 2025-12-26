@@ -49,9 +49,9 @@ Tools & Technologies:
 - Algorithm analysis and optimization
 
 **📫 Contact Me**
-📧 Email: yunusemreozcalimli@gmail.com
-🔗 LinkedIn: linkedin.com/in/yunus-emre-özçalimli-455b01330
-💻 GitHub: github.com/YunusEmre214
+- 📧 Email: yunusemreozcalimli@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/yunus-emre-özçalimli-455b01330
+- 💻 GitHub: github.com/YunusEmre214
 <!--
 **YunusEmre214/YunusEmre214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
