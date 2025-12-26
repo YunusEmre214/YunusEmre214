@@ -52,6 +52,8 @@ Tools & Technologies:
 - 📧 Email: yunusemreozcalimli@gmail.com
 - 🔗 LinkedIn: linkedin.com/in/yunus-emre-özçalimli-455b01330
 - 💻 GitHub: github.com/YunusEmre214
+
+- <a href="https://linkedin.com/in/yunus-emre-özçalimli-455b01330/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />aaba</a>
 <!--
 **YunusEmre214/YunusEmre214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
