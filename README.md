@@ -1,7 +1,6 @@
 ## Hi there I'm Yunus Emre Özçalimli👋
 
 **🎓 Computer Engineering (2nd Year) Student**
-
 **High Honor Student and GPA:3.52**
 
 **📍 MEF University, Türkiye**
