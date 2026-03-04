@@ -1,12 +1,11 @@
 ## Hi there I'm Yunus Emre Özçalimli👋
 
 **🎓 Computer Engineering (2nd Year) Student**
+**High Honor Student and GPA:3.52**
 **📍 MEF University, Türkiye**
 
 I am a motivated computer engineering student with a strong interest in software development, data structures, and algorithm design.
 I enjoy building projects from scratch and understanding how systems work at a low level.
-
-**GPA:3.52**
 
 **🛠️ Technical Skills**
 
