@@ -6,7 +6,7 @@
 I am a motivated computer engineering student with a strong interest in software development, data structures, and algorithm design.
 I enjoy building projects from scratch and understanding how systems work at a low level.
 
-**GPA:3.52
+**GPA:3.52**
 
 **🛠️ Technical Skills**
 
