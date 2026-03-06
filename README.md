@@ -16,7 +16,7 @@ Programming Languages:
 - C
 - Python
 - HTML / CSS
-- MySQl/MangoDB
+- MySQL/MangoDB
 
 Computer Science:
 - Data Structures & Algorithms
